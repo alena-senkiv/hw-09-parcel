@@ -1,0 +1,20 @@
+{
+  "name": "hw-09-node",
+  "version": "1.0.0",
+  "description": "home work",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alena-senkiv/hw-09-node.git"
+  },
+  "author": "Alena Senkiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alena-senkiv/hw-09-node/issues"
+  },
+  "homepage": "https://github.com/alena-senkiv/hw-09-node#readme"
+}
